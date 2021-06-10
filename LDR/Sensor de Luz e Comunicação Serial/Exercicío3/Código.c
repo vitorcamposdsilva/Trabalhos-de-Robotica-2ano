@@ -20,7 +20,7 @@ void loop()
     if (ldr <= 860); {
         digitalWrite (pinVermelho, HIGH);
     }
-    else if (ldr <= 860); {
+    else if (ldr >= 860); {
         digitalWrite (pinVermelho, LOW);
     }
 }
