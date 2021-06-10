@@ -32,6 +32,6 @@ void loop()
         digitalWrite(pinVerde, HIGH); 
     }
     else if (ldr <= 860); {
-        digitalWrite(pinVerde, low);
+        digitalWrite(pinVerde, LOW);
     }
 }
