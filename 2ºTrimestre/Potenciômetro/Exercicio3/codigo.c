@@ -1,5 +1,5 @@
-int pinVermelho = 2;
-int pinVerde = 3;
+int pinVermelho = 13;
+int pinVerde = 11;
 void setup()
 {
     Serial.begin(9600);
