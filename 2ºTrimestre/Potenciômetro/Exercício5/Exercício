@@ -1,2 +1,3 @@
 Usando 4 LEDs, eles devem acender na medida que o valor do potenciômetro aumenta,
-o primeiro ligará após o valor 200, o segundo acima de 400, o terceiro acima de 600, o quarto acima de 800.
+o primeiro ligará após o valor 200, o segundo acima de 400, o terceiro acima de 600,
+o quarto acima de 800.
