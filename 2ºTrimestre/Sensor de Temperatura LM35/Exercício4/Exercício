@@ -1,0 +1,4 @@
+Acrescentando um Buzzer crie seu próprio termômetro de temperatura,
+ao ser ligado ele deve aguardar 30 segundos para estabilizar a leitura da temperatura,
+após isso deve ler o valor da temperatura, já convertido cara Celsius, imprimir na serial e soar um bip.
+Como um termômetro real.
