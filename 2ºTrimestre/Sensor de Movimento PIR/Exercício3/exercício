@@ -1,0 +1,2 @@
+Usando 4 LEDs eles devem acender na sequência (um após o outro)
+enquanto for detectado movimento, se não houver movimento se apagam.
