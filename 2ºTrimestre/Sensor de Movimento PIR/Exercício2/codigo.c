@@ -13,18 +13,20 @@ void loop()
 {
     int sensor;
     
-    sensor = digitalRead(2);
+    sensor = digitalRead(12);
     Serial.println(sensor);
     if (sensor==HIGH)
     {
         Serial.println("ALERTA VERMELHO!!!");
         digitalWrite(pinVermelho, HIGH);
-        digitalWrite(pinVerde, LOW);
+      	digitalWrite(pinVerde, LOW);
+    
     }
     if (sensor==LOW)
     {
         Serial.println("tranquilo");
+      	digitalWrite(pinVerde,HIGH);
         digitalWrite(pinVermelho, LOW);
-        digitalWrite(pinVerde, HIGH);
+        
     }
 }
