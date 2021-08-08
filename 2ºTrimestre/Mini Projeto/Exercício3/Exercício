@@ -1,0 +1,2 @@
+Ligue o LED quando a temperatura passar do valor de central (quente o LED liga, frio o LED desliga) anote o valor central 
+aproximado que você encontrou. Esse valor é chamado ponto de corte, ele define quando o LED deve ligar ou desligar.
