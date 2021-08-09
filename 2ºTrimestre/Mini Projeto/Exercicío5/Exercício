@@ -1,0 +1,3 @@
+Controle de temperatura com dois LEDs
+Usando dois LEDs um vermelho outro verde. O Vermelho deve acender quando a temperatura passar o valor de corte,
+o LED verde funciona invertido, sendo que o mesmo deve ligar quando a temperatura ficar a baixa do valor de corte.

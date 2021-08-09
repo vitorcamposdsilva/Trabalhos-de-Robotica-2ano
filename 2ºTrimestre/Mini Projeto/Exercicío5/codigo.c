@@ -1,6 +1,8 @@
 float t = 0;
 int s = A0;
 int pinVermelho = 7;
+int pinVerde = 9;
+
 void setup()
 {
   Serial.begin(9600);
@@ -14,6 +16,13 @@ void loop()
   int val;
   val = analogRead(A1);
   Serial.println(val);
+  if (val <=511){
+        digitalWrite(pinVerde, HIGH);
+    }
+    else  {
+        digitalWrite(pinVerde, LOW);
+    }
+  
   if (val >=511){
         digitalWrite(pinVermelho, HIGH);
     }
