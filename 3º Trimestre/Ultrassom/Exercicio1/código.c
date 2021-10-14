@@ -34,4 +34,3 @@ void DisparaPulsoUltrassonico() {
 float CalculaDistancia(float tempo_us) {
   return ((tempo_us * velocidadeSom_mporus) / 2);
 }
-x'
