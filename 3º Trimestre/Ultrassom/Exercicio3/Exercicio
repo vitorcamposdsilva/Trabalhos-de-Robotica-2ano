@@ -1,0 +1,2 @@
+Insira um Buzzer na atividade anterior, o LED continuará ligado para distancias menores que 20 centímetros e o buzzer deverá
+soar continuamente se a distância for menor que 10 centímetros se a distância voltar a aumentar ele deverá parar de soar.
