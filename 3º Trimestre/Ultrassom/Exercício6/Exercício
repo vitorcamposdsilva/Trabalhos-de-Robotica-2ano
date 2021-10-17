@@ -1,0 +1,3 @@
+Para finalizar utilize-se da mesma montagem anterior, a única alteração será com relação ao Buzzer, para distâncias
+abaixo de 10 centímetros ele começa a emitir bips, quanto menor a distância mais rápido são os bips, abaixo de 5cm
+o bip fica contínuo, como um sensor de ré de carros.
