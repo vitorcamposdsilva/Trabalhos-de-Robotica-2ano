@@ -11,4 +11,9 @@ void loop() {
   lcd.print("Vitor Campos");
   lcd.setCursor(0, 2);
   lcd.print("2 INF U T");
+  delay(10000);
+  lcd.clear();
+  lcd.setCursor(0, 0);
+  lcd.setCursor(0, 2);
+  exit(0);
 }

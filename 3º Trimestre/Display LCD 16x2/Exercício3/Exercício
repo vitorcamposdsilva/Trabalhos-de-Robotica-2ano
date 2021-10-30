@@ -1,0 +1,2 @@
+Modifique a atividade anterior para mostrar seu nome, sobrenome e turma apenas na inicialização do Arduino,
+aguarde 10 segundos e apague o texto do display, deixando as duas linhas sem texto. Pesquise como fazer isso.
