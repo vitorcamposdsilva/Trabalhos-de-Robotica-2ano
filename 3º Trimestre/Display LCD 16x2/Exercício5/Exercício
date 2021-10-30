@@ -1,0 +1,3 @@
+Insira um LED vermelho no exercício anterior (nome, sobrenome e turma aparecem por 10 segundos), após isso o LED deve ligar
+quando o botão for pressionado e apagar quando o botão for liberado. No Display deve aparecer primeira linha a data de hoje
+(coloque fixo como um texto) e na segunda linha o estado do LED. LED LIGADO ou LED DESLIGADO.

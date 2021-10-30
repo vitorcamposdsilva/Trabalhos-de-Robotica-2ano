@@ -1,0 +1,2 @@
+Insira um botão no seu projeto (reveja se necessário a aula de botões), use o mesmo código do exercício anterior e ao entrar
+no loop imprima o valor do botão no LCD. Botão não pressionado escreve LOW ou DESLIGADO, botão pressionado HIGH ou LIGADO.
