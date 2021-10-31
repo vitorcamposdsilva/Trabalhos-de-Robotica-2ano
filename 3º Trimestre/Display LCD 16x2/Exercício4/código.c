@@ -4,6 +4,7 @@ int pin_bot=7;
 int val_bot;
 
 void setup() {
+  pinMode(pin_bot, INPUT);
   lcd.begin(16, 2);
   lcd.setCursor(2,1);
 }
